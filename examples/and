@@ -1,0 +1,1 @@
+[[[8,6]],[],[],[[12,11]],[[7,12,true],[7,8,true]],[[12,6]],[[6.003110419906688,8.087091757387247,"a"],[5.9720062208398135,12.03732503888025,"b"],[13.12597200622084,5.940902021772939,"ab"]],"This is an AND gate.  It only triggers if both inputs are 1.  Notice how similar this is to the switch gate!"]

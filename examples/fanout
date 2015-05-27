@@ -1,0 +1,1 @@
+[[[9,12]],[],[[7,8,true]],[[13,14]],[[7,12,true]],[[13,5],[13,8]],[[6.065318818040436,12.19284603421462,"x"],[6.003110419906688,8.024883359253499,"1"],[13.96578538102644,5.0077760497667185,"x"],[13.934681181959565,7.993779160186626,"x"]],"This is a FAN OUT gate.  It makes a copy of x.<br><br>Note that with AND, NOT, and FAN OUT, our billiard ball computer is Turing complete!"]
